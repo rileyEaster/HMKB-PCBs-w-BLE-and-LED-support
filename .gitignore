@@ -1,0 +1,28 @@
+# KiCad stuff
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+*.dcm-bak
+fp-info-cache
+*.net
+*.dsn
+*.ses
+*.xml
+*.csv
+*.pos
+*.rpt
+
+# Also KiCad stuff but not relevant yet
+# *.wrl
+# *.step
+# *.stp
+
+
+.DS_Store
+Thumbs.db
