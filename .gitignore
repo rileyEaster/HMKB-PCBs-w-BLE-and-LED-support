@@ -1,4 +1,3 @@
-# KiCad stuff
 *.bak
 *.bck
 *.kicad_prl
@@ -17,11 +16,6 @@ fp-info-cache
 *.csv
 *.pos
 *.rpt
-
-# Also KiCad stuff but not relevant yet
-# *.wrl
-# *.step
-# *.stp
 
 
 .DS_Store
